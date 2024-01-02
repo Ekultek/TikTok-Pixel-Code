@@ -1,3 +1,4 @@
+
 window[window["TiktokAnalyticsObject"]].instance("").setAdvancedMatchingAvailableProperties({"email":false,"phone_number":false,"auto_email":false,"auto_phone_number":false});
 window[window["TiktokAnalyticsObject"]].instance("").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("").setPixelInfo({status: 1, name: "", advertiserID: "0", setupMode: 0, partner: "", is_onsite: false });
 window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("");
